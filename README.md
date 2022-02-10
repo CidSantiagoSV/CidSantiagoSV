@@ -3,6 +3,7 @@
 <!--
 **CidSantiagoSV/CidSantiagoSV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+You reached cid.vieira`s profile, graduated in 2018 at UniCEUB, Brazil.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
