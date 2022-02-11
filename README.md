@@ -10,11 +10,8 @@ About Me
 
 🛠 Tech Stack
 
-<text xmlns="http://www.w3.org/2000/svg" transform="scale(.1)" x="852.5" y="175" textLength="825" fill="#fff" font-weight="bold">JAVASCRIPT</text>
-<text xmlns="http://www.w3.org/2000/svg" transform="scale(.1)" x="852.5" y="175" textLength="825" fill="#fff" font-weight="bold">PYTHON</text>
-
-💻   Python | JavaScript
+💻   Python  | JavaScript
 ⚡   Node.js | Express.js
-MongoDB
+⚙️   MongoDB
 
 
