@@ -12,6 +12,3 @@ About Me
 
 💻   <code>Python</code> | <code>JavaScript</code><br>
 ⚡   <code>Node.js</code>| <code>Express.js</code><br>
-⚙️   <code>MongoDB</code>
-
-
