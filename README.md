@@ -10,5 +10,5 @@ About Me
 
 🛠 Tech Stack
 
-💻   <code>Python</code> | <code>JavaScript</code><br>
+💻   <code>JavaScript</code><br>
 ⚡   <code>Node.js</code>| <code>Express.js</code><br>
