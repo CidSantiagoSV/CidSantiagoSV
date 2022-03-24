@@ -11,4 +11,4 @@ About Me
 🛠 Tech Stack
 
 💻   <code>JavaScript</code><br>
-⚡   <code>Node.js</code>| <code>Express.js</code><br>
+⚡   <code>Node.js</code>| <code>Express.js</code> | <code>MongoDB</code><br>
